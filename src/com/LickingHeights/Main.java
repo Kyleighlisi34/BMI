@@ -32,11 +32,12 @@ public class Main {
     //TODO CONVERT VARIABLES TO DO THE EQUATION
         inches = inches + (feet * 12);
         meters = inches * IN_TO_METERS;
-        
-
-
+        kilograms = (weight * 0.453592);
 
     //TODO PERFORM BMI CALCULATION
+
+
+
 
     //TODO PRINT RESULTS
 
