@@ -25,7 +25,7 @@ public class Main {
         inches = keyboard.nextDouble();
         System.out.println("What is your weight in pounds?");
         weight = keyboard.nextDouble();
-        System.out.println("What is your height in meters?");
+
 
 
 
@@ -35,11 +35,10 @@ public class Main {
         kilograms = (weight * 0.453592);
 
     //TODO PERFORM BMI CALCULATION
-
-
-
+        bmi = kilograms/ (meters * meters);
 
     //TODO PRINT RESULTS
+        
 
 
 
