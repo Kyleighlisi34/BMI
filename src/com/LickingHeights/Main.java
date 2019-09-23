@@ -38,7 +38,7 @@ public class Main {
         bmi = kilograms/ (meters * meters);
 
     //TODO PRINT RESULTS
-        
+        System.out.println(bmi);
 
 
 
